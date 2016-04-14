@@ -13,6 +13,6 @@ try:
 
     print "The Answer is now finished"
     print tracker
-
+    input()
 except:
     print "You typed something wrong"
